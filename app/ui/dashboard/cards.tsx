@@ -12,7 +12,7 @@ const iconMap = {
   customers: UserGroupIcon,
   pending: ClockIcon,
   invoices: InboxIcon,
-};
+}; 
 
 export default async function CardWrapper() {
   const {
